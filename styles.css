@@ -1,0 +1,37 @@
+body{
+    background-color:darkgrey;
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+canvas{
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+#play {
+    background-color:black;
+    
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: cneter;
+    margin: auto;
+    margin-bottom: 40px;
+}
+#stop {
+    background-color:black;
+    
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: cneter;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+
